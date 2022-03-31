@@ -1,6 +1,7 @@
 2001639 – Francesco Ceccato
 1170566 – Martina Garon
+COMPONENTI
 processori
-file: processori.md
+file: componenti/processori.md
 schede madri
-file: schede_madri.md
+file: componenti/schede_madri.md
