@@ -5,3 +5,4 @@ processori
 file: componenti/processori.md
 schede madri
 file: componenti/schede_madri.md
+PERIFERICHE
