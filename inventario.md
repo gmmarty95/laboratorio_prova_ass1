@@ -1,7 +1,10 @@
-2001639 – Francesco Ceccato
-1170566 – Martina Garon
+2001639 â€“ Francesco Ceccato
+1170566 â€“ Martina Garon
 COMPONENTI
 processori
 file: componenti/processori.md
 schede madri
 file: componenti/schede_madri.md
+
+
+ohoh
